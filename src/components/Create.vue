@@ -27,7 +27,7 @@ export default {
     name: "Create",
     props: {
 	todo: {
-	    type: Object,
+	    type: Array,
 	    default: []
 	}
     },
