@@ -21,7 +21,7 @@ export default {
     },
     data() {
 	return {
-	    todo: [{title:"Hello", contents:"World", id:0, state:0, date:"123"}]
+	    todo: []
 	}
     }
 };
